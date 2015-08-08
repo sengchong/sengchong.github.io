@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Roger Chapman</title>
- <link href="http://rogchap.com/atom.xml" rel="self"/>
- <link href="http://rogchap.com/"/>
+ <link href="http://seahdavid.com/atom.xml" rel="self"/>
+ <link href="http://seahdavid.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://rogchap.com/</id>
+ <id>http://seahdavid.com/</id>
  <author>
    <name>David Seah</name>
    <email>david_seah@outlook.com</email>
