@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Roger Chapman</title>
+ <title>David Seah</title>
  <link href="http://seahdavid.com/atom.xml" rel="self"/>
  <link href="http://seahdavid.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
