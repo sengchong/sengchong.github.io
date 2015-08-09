@@ -1,3 +1,3 @@
-Sitemap: http://rogchap.com/sitemap.xml
+Sitemap: http://seahdavid.com/sitemap.xml
 User-agent: *
 Allow: /
