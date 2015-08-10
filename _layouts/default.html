@@ -9,8 +9,10 @@
 	<link rel="stylesheet" href="/css/screen.css" type="text/css" media="all" />
 	<link rel="stylesheet" href="/css/tablet.css" type="text/css" media="screen and (min-width:651px) and (max-width: 1024px), screen and (min-device-width: 768px) and (max-device-width: 1024px)" />
 	<link rel="stylesheet" href="/css/mobile.css" type="text/css" media="handheld, screen and (max-width: 650px), screen and (max-device-width: 480px)" />
-	
-	
+	<!-- support the MathJax if necessary -->
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
 </head>
 <body>
 	<div class="site">
@@ -44,11 +46,5 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
     </script>
-	 <!-- support the MathJax if necessary -->
-    {% if page.use_math %}
-      {% include mathjax_support %}
-    {% endif %}
-	
-	
 </body>
 <html>

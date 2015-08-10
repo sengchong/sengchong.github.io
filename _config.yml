@@ -3,3 +3,4 @@ url: http://seahdavid.com
 permalink: pretty
 pygments: true
 exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
+markdown: maruku
