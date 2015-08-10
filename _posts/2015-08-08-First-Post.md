@@ -3,6 +3,8 @@ layout: post
 title: First Post
 ---
 
+Let's test some inline math $x$, $y$, $x_1$, $y_1$.
+
 There are may great things that you gain by using vector graphics in your iOS apps:
 
 * Increased performance
