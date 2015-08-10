@@ -3,9 +3,14 @@ layout: post
 title: First Post
 ---
 
-Let's test some inline math $x$, $y$, $x_1$, $y_1$.
+Let's test some inline math $x$, $y$, 
+$x_1^1$,
+$x_1^1$
+
 
 $$a^2 + b^2 = c^2$$
+
+$\begin{bmatrix}a & b\\c & d\end{bmatrix}$
 
 There are may great things that you gain by using vector graphics in your iOS apps:
 
