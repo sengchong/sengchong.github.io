@@ -1,6 +1,6 @@
 url: http://seahdavid.com
 #markdown: rdiscount
-markdown: kramdown
+markdown: redcarpet 
 permalink: pretty
 pygments: true
 exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
