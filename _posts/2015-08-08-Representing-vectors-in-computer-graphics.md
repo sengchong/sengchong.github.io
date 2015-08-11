@@ -13,3 +13,40 @@ Therefore we need to add in an extra component, the origin. <br/><br/>
 
 This can be also represented in 
 
+$$ \left[
+    \begin{array}{c}
+      x \\
+      y \\
+	  z \\
+	  1
+    \end{array}
+\right] 
+\cdot 
+\left[
+    \begin{array}{c}
+      \hat{i}\\
+      \hat{j}\\
+	  \hat{k}\\
+	  \omicron
+    \end{array}
+\right]
+$$
+
+ <center> or  </center>
+
+$$ \left[
+    \begin{array}{c}
+      x & y & z & 1
+    \end{array}
+\right] 
+\cdot 
+\left[
+    \begin{array}{c}
+      \hat{i}\\
+      \hat{j}\\
+	  \hat{k}\\
+	  \omicron
+    \end{array}
+\right]
+$$
+
