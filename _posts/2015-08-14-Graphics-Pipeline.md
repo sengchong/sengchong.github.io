@@ -20,4 +20,4 @@ After applying the projection martix, we need to subtracted the W value. We call
 
 As the image can be possibility render to different type of screens, we do a normalization so as to make life easier when we apply the view port matrix. 
 
-ttd finally, after normalising, we apply the view port matrix, we is depending on your viewport settings. 
+Finally, after normalising, we apply the view port matrix, we is depending on your viewport settings. 
