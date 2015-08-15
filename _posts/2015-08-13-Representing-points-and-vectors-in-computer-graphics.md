@@ -53,7 +53,7 @@ $$ \left[
 \right]
 $$
 
-For vectors, simply replace 1 with 0.<br/>
+For vectors, simply replace 0 with 1.<br/>
 
 <center>$x$ $\cdot$ $\hat{i}$ + $y$ $\cdot$ $\hat{j}$ + $z$ $\cdot$ $\hat{k}$ + 0 $\cdot$ $\omicron$ </center>
 
