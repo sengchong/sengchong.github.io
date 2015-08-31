@@ -117,7 +117,7 @@ $$ \left[
     \begin{array}{c}
       m20\\
       m12\\
-	  m13\
+	  m13\\
 	  0
     \end{array}
 
@@ -152,7 +152,7 @@ $$ \left[
     \begin{array}{c}
       0\\
       0\\
-	  1\
+	  1\\
 	  0
     \end{array}
 
