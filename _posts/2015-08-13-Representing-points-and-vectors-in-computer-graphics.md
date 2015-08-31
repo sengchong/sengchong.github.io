@@ -113,23 +113,19 @@ $$ \left[
 	  m21\\
 	  0
     \end{array}
-\right]
-\cdot 
-\left[
+
     \begin{array}{c}
-      \m20\\
-      \m12\\
-	  \m13\
-	  \0
+      m20\\
+      m12\\
+	  m13\
+	  0
     \end{array}
-\right]
-\cdot 
-\left[
+
     \begin{array}{c}
-      \0\\
-      \0\\
-	  \0\\
-	  \1
+      0\\
+      0\\
+	  0\\
+	  1
     \end{array}
 \right]
 $$
@@ -140,37 +136,31 @@ A translation Matrix T will look like this.  <br/>
 
 $$ \left[
     \begin{array}{c}
-      \1 \\
-      \0 \\
-	  \0 \\
-	  \0
+      1 \\
+      0 \\
+	  0 \\
+	  0
     \end{array}
-\right] 
-\cdot 
-\left[
+
     \begin{array}{c}
-      \0\\
-      \1\\
-	  \0\\
-	  \0
+      0\\
+      1\\
+	  0\\
+	  0
     \end{array}
-\right]
-\cdot 
-\left[
+
     \begin{array}{c}
-      \0\\
-      \0\\
-	  \1\
-	  \0
+      0\\
+      0\\
+	  1\
+	  0
     \end{array}
-\right]
-\cdot 
-\left[
+
     \begin{array}{c}
-      \tx\\
-      \ty\\
-	  \tz\\
-	  \1
+      tx\\
+      ty\\
+	  tz\\
+	  1
     \end{array}
 \right]
 $$
