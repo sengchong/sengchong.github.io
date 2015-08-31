@@ -106,14 +106,12 @@ $$ \left[
 	  m20 \\
 	  0
     \end{array}
-\right] 
-\cdot 
-\left[
+
     \begin{array}{c}
-      \m10\\
-      \m11\\
-	  \m21\\
-	  \0
+      m10\\
+      m11\\
+	  m21\\
+	  0
     \end{array}
 \right]
 \cdot 
