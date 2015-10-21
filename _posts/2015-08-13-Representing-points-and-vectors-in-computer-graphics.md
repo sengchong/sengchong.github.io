@@ -77,19 +77,16 @@ $$
 
  <center> or  </center>
 
-$$ \left[
-    \begin{array}{c}
-      x & y & z & 0
-    \end{array}
-\right] 
-\left[
-    \begin{array}{c}
-      \hat{i}\\
+$$
+ \begin{bmatrix}
+    x & y & z & 0 \\
+  \end{bmatrix}
+  \begin{bmatrix}
+     \hat{i}\\
       \hat{j}\\
 	  \hat{k}\\
 	  \omicron
-    \end{array}
-\right]
+  \end{bmatrix}
 $$
 
 For a 3 X 3 Matrix (2 X 2 Matrix for two dimension), we can use it to perform linear transformation such as rotation, scaling and shear.<br/>
@@ -99,69 +96,30 @@ This is why the introduction of homogeneous notions is useful for vectors and po
 
 A 3 X 3 Matrix will becomes a 4 X 4 Matrix. <br/>
 
-$$ \left[
-    \begin{array}{c}
-      m00 \\
-      m10 \\
-	  m20 \\
-	  0
-    \end{array}
-
-    \begin{array}{c}
-      m10\\
-      m11\\
-	  m21\\
-	  0
-    \end{array}
-
-    \begin{array}{c}
-      m20\\
-      m12\\
-	  m13\\
-	  0
-    \end{array}
-
-    \begin{array}{c}
-      0\\
-      0\\
-	  0\\
-	  1
-    \end{array}
-\right]
 $$
+ \begin{bmatrix}
+    m00 & m10 & m20 & 0 \\
+    m10 & m11 & m12 & 0 \\
+    m20 & m21 & m13 & 0 \\
+    0   & 0   & 0   & 1
+  \end{bmatrix}
+$$
+
+
 
 Rotating, scaling and shear matrix can replace M, and it will affect the vector and point. <br/>
 Translation however uses the addition element of the 4 X 4 Matrix.<br/>
 A translation Matrix T will look like this.  <br/>
 
-$$ \left[
-    \begin{array}{c}
-      1 \\
-      0 \\
-	  0 \\
-	  0
-    \end{array}
 
-    \begin{array}{c}
-      0\\
-      1\\
-	  0\\
-	  0
-    \end{array}
-
-    \begin{array}{c}
-      0\\
-      0\\
-	  1\\
-	  0
-    \end{array}
-
-    \begin{array}{c}
-      tx\\
-      ty\\
-	  tz\\
-	  1
-    \end{array}
-\right]
 $$
+ \begin{bmatrix}
+    1 & 0 & 0 & tx \\
+    0 & 1 & 0 & ty \\
+    0 & 0 & 1 & tz \\
+    0 & 0 & 0 & 1
+  \end{bmatrix}
+$$
+
+
 
