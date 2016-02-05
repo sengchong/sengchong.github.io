@@ -1,3 +1,0 @@
-Sitemap: http://seahdavid.com/sitemap.xml
-User-agent: *
-Allow: /

@@ -1,6 +1,9 @@
-.DS_Store
 _site
-.project
-*.swp
-.idea
-*.iml
+.DS_Store
+.jekyll
+.bundle
+.sass-cache
+Gemfile
+Gemfile.lock
+node_modules
+package.json
