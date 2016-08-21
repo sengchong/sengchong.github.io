@@ -3,5 +3,10 @@ layout: post
 title: The Language Of Applied Maths
 ---
 
-$$ \mathbb \alpha  \, alpha$$ 
-$$ \mathscr \beta \, beta $$
+$$ \alpha  \, alpha$$ 
+$$ \beta \, beta $$
+$$ \gamma \, gamma $$
+$$ \delta \, delta $$
+$$ \epsilon \, epsilon $$
+$$ \varepsilon \, varepsilon $$
+$$ \zeta \, zeta $$
