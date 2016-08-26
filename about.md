@@ -17,7 +17,7 @@ I like building things. I hope that the things that I build will make people's l
 ###Disclaimer
 Most of the contents will not original, most likely I have learned or read it somewhere but would like to share it using my own words. 
 
-Test
+
 
 ### Contact me
 [david_seah@outloook.com](mailto:david_seah@outlook.com)
