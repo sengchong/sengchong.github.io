@@ -1,4 +1,5 @@
 ---
-published: false
+layout: post
+title: Computer Graphics
 ---
 $$a^2 + b^2 = c^2$$
