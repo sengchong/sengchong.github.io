@@ -3,17 +3,17 @@ title:               Lagrange
 tagline:             a minimalist Jekyll theme
 description:
 baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+url: 			#"http://www.seahdavid.com"
 github:
-  url:               "https://lenpaul.github.io/Lagrange"
+url: 		"http://www.seahdavid.com"
 author:
   name:              "Paul Le"
   email:             "l.nguyen.paul@gmail.com"
   twitter:           "paululele"
-  instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  instagram:         
+  github:            
+  facebook:          
+  linkedin:          
 paginate:            5
 
 
