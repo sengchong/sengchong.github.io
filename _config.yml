@@ -1,7 +1,7 @@
 # Site Settings
-title:               David Seah Blog
-tagline:             A blog about Programming
-description:         
+title:               David Seah 
+tagline:             Programming
+description:         This is a place where I will write about programming
 #baseurl:            
 github:
 url: 		"http://www.seahdavid.com"
