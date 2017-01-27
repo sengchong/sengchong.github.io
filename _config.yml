@@ -1,18 +1,18 @@
 # Site Settings
-title:               Lagrange
-tagline:             a minimalist Jekyll theme
-description:
-baseurl:            #"/Lagrange"
+title:               David Seah Blog
+tagline:             A blog about Programming
+description:         
+#baseurl:            
 github:
 url: 		"http://www.seahdavid.com"
 author:
-  name:              "Paul Le"
-  email:             "l.nguyen.paul@gmail.com"
-  twitter:           "paululele"
+  name:              "David Seah"
+  email:             "ssc1987@gmail.com"
+  twitter:           
   instagram:         
-  github:            
+  github:            davidseah
   facebook:          
-  linkedin:          
+  linkedin:          davidseahsc
 paginate:            5
 
 
