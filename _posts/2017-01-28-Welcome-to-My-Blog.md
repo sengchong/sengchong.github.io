@@ -4,9 +4,9 @@ title: "Welcome to My Blog!"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
-  credit: Death to Stock Photo
+  feature: davidseah.jpg
+  teaser: davidseah.jpg
+  credit: 
   creditlink: ""
 ---
 
