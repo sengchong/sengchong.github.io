@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![David Seah](davidseah.jpg){:class="img-responsive"}
+![David Seah]({{ site.github.url }}/images/{{ davidseah.jpg }}){:class="img-responsive"}
 
 My name is David Seah. I am a Software Engineer. 
 I graduated from Digipen Insitute of Technology with a Bachelor degree in Computer Science in Real Time interactive Simulation.
