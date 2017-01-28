@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 
-![image-title-here](davidseah.jpg){:class="img-responsive"}
+![David Seah](davidseah.jpg){:class="img-responsive"}
+
 My name is David Seah. I am a Software Engineer. 
 I graduated from Digipen Insitute of Technology with a Bachelor degree in Computer Science in Real Time interactive Simulation.
 
