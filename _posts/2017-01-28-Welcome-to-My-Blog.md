@@ -5,7 +5,7 @@ categories: journal
 tags: [documentation,sample]
 image:
   feature: davidseah.jpg
-  teaser: davidseah.jpg
+  teaser: davidseah-teaser.jpg
   credit: 
   creditlink: ""
 ---
