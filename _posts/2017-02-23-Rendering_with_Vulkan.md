@@ -5,7 +5,7 @@ categories: Vulkan
 tags: [documentation,sample]
 image:
   feature: tim-gouw-167127.jpg
-  teaser: 
+  teaser:  tim-gouw-167127.jpg
   credit: 
   creditlink: ""
 ---
