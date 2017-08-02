@@ -4,21 +4,20 @@ title: "Running npm start on Cloud9"
 categories: Cloud9
 tags: [documentation,sample]
 image:
-  feature: tim-gouw-167127.jpg
-  teaser:  tim-gouw-167127.jpg
+  feature: 
+  teaser:  
   credit: 
   creditlink: ""
 ---
 Recently I have just started on learning react. 
 After experimenting on various text, I have decided to go with Cloud9.
-Having multiple machine, Cloud9 being running on a cloud will make it much easier
-for me to continue my learning without breaking the flow. 
+Having multiple machines, Cloud9 being running on a cloud will make it much easier for me to continue my learning without breaking the flow. 
 
-However the first problem I faced was not able to run npm start as Cloud9 was being run on a virtual machine. 
+However, the first problem I faced was not able to run npm start as Cloud9 was being run on a virtual machine. 
 
 After much googling, I found a way to fix it. 
 
-First you have to do npm install webpack-dev-server -g.
+First, you have to do npm install webpack-dev-server -g.
 
 But I faced some issue installing. To solve this I have to update to a later version of npm.
 
